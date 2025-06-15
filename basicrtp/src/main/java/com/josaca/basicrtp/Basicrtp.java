@@ -29,7 +29,6 @@ public class Basicrtp extends JavaPlugin {
         if (label.equalsIgnoreCase("rtp") && sender instanceof Player) {
             Player player = (Player) sender;
             FileConfiguration config = getConfig();
-            String mensaje = config.getString("teleport_message", "You have been teleported!");
             int cooldownSegundos = config.getInt("cooldown_seconds", 10);
 
             UUID playerId = player.getUniqueId();
