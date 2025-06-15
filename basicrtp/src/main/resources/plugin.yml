@@ -1,0 +1,12 @@
+name: BasicRTP
+main: com.josaca.basicrtp.Basicrtp
+version: 1.0
+api-version: 1.21
+commands:
+  rtp:
+    description: Teleports to a random location.
+    usage: /rtp
+  setrtp:
+    description: Sets the initial RTP coordinates based on the player's current location.
+    usage: /setrtp
+    permission: basicrtp.setrtp
