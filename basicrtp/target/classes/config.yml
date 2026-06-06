@@ -1,5 +1,0 @@
-initial_x: 0
-initial_z: 0
-max_range: 2000
-teleport_message: "You have been teleported!"
-cooldown_seconds: 10

@@ -1,14 +1,14 @@
 # BasicRTP
 
 ## Description
-BasicRTP is a simple and lightweight plugin for Minecraft 1.21, designed to allow random teleportation within a defined range. Created out of necessity for my own server, it provides a quick and configurable way to explore the world without complex commands.
+BasicRTP is a simple and lightweight Paper plugin for Minecraft 26.1.2, designed to allow random teleportation within a defined range. Created out of necessity for my own server, it provides a quick and configurable way to explore the world without complex commands.
 
 ### Features
 - **Random Teleportation:** Quick teleportation within a configurable area.
 - **Customizable Start Point:** Set the center of the teleportation zone easily in-game.
 - **Cooldown System:** Prevents excessive use and server strain.
 - **Fully Configurable:** Easily customize ranges, coordinates, and messages.
-- **Optimized:** Lightweight design tailored for Minecraft 1.21.X.
+- **Optimized:** Lightweight design tailored for Minecraft 26.1.2.
 
 ---
 
